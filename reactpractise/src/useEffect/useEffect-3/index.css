@@ -1,0 +1,11 @@
+.image{
+    height:200px;
+    width:200px;
+    margin:5px;
+}
+.unorderedList{
+    list-style:none;
+    display:flex;
+    flex-wrap:wrap;
+}
+

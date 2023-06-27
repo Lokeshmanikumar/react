@@ -1,0 +1,17 @@
+.navbar{
+    height:50px;
+    background-color:black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.button{
+    margin-right:10px;
+    color:#ffffff;
+    background-color:#0051ff;
+    padding:7px;
+    width:200px;
+    border:none;
+    border-radius:5px;
+}

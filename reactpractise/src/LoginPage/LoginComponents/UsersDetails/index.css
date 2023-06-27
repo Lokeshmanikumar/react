@@ -1,0 +1,14 @@
+.box{
+    height:150px;
+    width:400px;
+    border:4px solid lightblue;
+    background-color:yellow;
+    color:green;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+.margin{
+    margin-left:100px;
+}

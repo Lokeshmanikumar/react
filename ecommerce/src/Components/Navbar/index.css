@@ -1,0 +1,21 @@
+.navbar{
+    background-color:hsl(300, 100%, 88%);
+    height:50px;
+    color:#138999;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.logo{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.para{
+    margin-left:20px;
+    color:#138999;
+    text-decoration:none;
+}
